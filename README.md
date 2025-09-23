@@ -22,6 +22,7 @@ Free assets and scripts:
 Free platform for indie games - https://itch.io/
 
 My Godot gamedev tutorials - https://www.youtube.com/playlist?list=PLDzLmE2ooAiFznAppaO8SdZeLQJjkITHc
+- Make a desktop pet fish game, step-by-step (Godot 4.5) https://www.youtube.com/playlist?list=PLDzLmE2ooAiEdoMUwlV383ZVmfigTP0DZ
 
 Godot gamedev tutorials by others:
 - Godot fundamentals - SDG Games
