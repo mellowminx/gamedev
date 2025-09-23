@@ -10,6 +10,7 @@ Free tools:
 - Screen recorder with mic and system audio (Mac) - https://github.com/lihaoyun6/QuickRecorder
 - Graphic editor (Web) - https://www.photopea.com/
 - Drawing / mindmap (iPad) - excellent free version, with optional paid upgrade - https://concepts.app/en/
+- Text editor - https://www.sublimetext.com/
 
 Free assets and scripts:
 - Sound effects - https://freesound.org/
