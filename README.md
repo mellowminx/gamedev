@@ -5,6 +5,7 @@ Free tools:
 - Audio editor - https://www.audacityteam.org/
 - Animated GIF game screen recorder - https://www.cockos.com/licecap/
 - Video editor - https://kdenlive.org/
+- Lossless video cutter - https://github.com/mifi/lossless-cut
 - Text-based notes app (Mac) - https://fsnot.es/
 - Diagram / flowchart / mindmap tool (Web) - https://draw.io/
 - Screen recorder with mic and system audio (Mac) - https://github.com/lihaoyun6/QuickRecorder
@@ -19,6 +20,8 @@ Free assets and scripts:
 - Art - https://opengameart.org/
 - Icons - https://game-icons.net/
 - Shaders - https://godotshaders.com/
+- Music - https://freepd.com/
+- Music - https://freemusicarchive.org/music/holiznacc0/
 
 Free platform for indie games - https://itch.io/
 
