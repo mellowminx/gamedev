@@ -35,5 +35,5 @@ Godot gamedev tutorials by others:
 - Step-by-step tutorials
   - https://www.youtube.com/results?search_query=devworm
   - https://www.youtube.com/results?search_query=heartbeast
-- Intermediete/advanced tips
+- Intermediate/advanced tips
   - https://www.youtube.com/@queblegamedevelopment4143
