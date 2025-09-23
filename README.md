@@ -33,7 +33,8 @@ Godot gamedev tutorials by others:
   - https://www.youtube.com/playlist?list=PLJ690cxlZTgIsmdEhFufnB7O6KWoMS8M6
   - https://www.youtube.com/playlist?list=PLJ690cxlZTgK6j3wpoI9PBopRLNZc5QPv
 - Step-by-step tutorials
-  - https://www.youtube.com/results?search_query=devworm
-  - https://www.youtube.com/results?search_query=heartbeast
-- Intermediate/advanced tips
+  - https://www.youtube.com/@dev-worm
+  - https://www.youtube.com/@heartbeast
+- Quick lessons & tips
   - https://www.youtube.com/@queblegamedevelopment4143
+  - https://www.youtube.com/@minapecheux
