@@ -9,8 +9,9 @@ Free tools:
 - Text-based notes app (Mac) - https://fsnot.es/
 - Diagram / flowchart / mindmap tool (Web) - https://draw.io/
 - Screen recorder with mic and system audio (Mac) - https://github.com/lihaoyun6/QuickRecorder
+- Graphic editor (Web) - https://graphite.rs/
 - Graphic editor (Web) - https://www.photopea.com/
--Graphic editor - https://pixieditor.net/
+- Graphic editor - https://pixieditor.net/
 - Drawing / mindmap (iPad) - excellent free version, with optional paid upgrade - https://concepts.app/en/
 - Text editor - https://www.sublimetext.com/
 
