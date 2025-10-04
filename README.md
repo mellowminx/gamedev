@@ -11,6 +11,7 @@ Free tools:
 - Screen recorder with mic and system audio (Mac) - https://github.com/lihaoyun6/QuickRecorder
 - Graphic editor (Web) - https://graphite.rs/
 - Graphic editor (Web) - https://www.photopea.com/
+- Graphic editor - https://krita.org/
 - Graphic editor - https://pixieditor.net/
 - Graphic editor (pixel art) - https://github.com/Orama-Interactive/Pixelorama
 - Drawing / mindmap (iPad) - excellent free version, with optional paid upgrade - https://concepts.app/en/
