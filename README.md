@@ -47,5 +47,4 @@ Godot gamedev tutorials by others:
   - https://www.youtube.com/@queblegamedevelopment4143
   - https://www.youtube.com/@minapecheux
 
-Free Godot games, apps, demos, templates, add-ons, etc.
-- https://github.com/godotengine/awesome-godot
+Free Godot games, apps, demos, templates, add-ons, etc. - https://github.com/godotengine/awesome-godot
