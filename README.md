@@ -12,6 +12,7 @@ Free tools:
 - Graphic editor (Web) - https://graphite.rs/
 - Graphic editor (Web) - https://www.photopea.com/
 - Graphic editor - https://pixieditor.net/
+- Graphic editor (pixel art) - https://github.com/Orama-Interactive/Pixelorama
 - Drawing / mindmap (iPad) - excellent free version, with optional paid upgrade - https://concepts.app/en/
 - Text editor - https://www.sublimetext.com/
 
@@ -45,3 +46,6 @@ Godot gamedev tutorials by others:
 - Quick lessons & tips
   - https://www.youtube.com/@queblegamedevelopment4143
   - https://www.youtube.com/@minapecheux
+
+Free Godot games, apps, demos, templates, add-ons, etc.
+- https://github.com/godotengine/awesome-godot
