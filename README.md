@@ -29,6 +29,8 @@ Free assets and scripts:
 - Shaders - https://godotshaders.com/
 - Music - https://freepd.com/
 - Music - https://freemusicarchive.org/music/holiznacc0/
+- Godot theme creator - https://github.com/Inspiaaa/ThemeGen
+- Godot theme template - https://github.com/jonathanlake/godot-theme-template
 
 Free platform for indie games - https://itch.io/
 
