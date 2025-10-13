@@ -53,5 +53,6 @@ Godot gamedev tutorials by others:
   - https://www.youtube.com/@queblegamedevelopment4143
   - https://www.youtube.com/@minapecheux
   - https://www.youtube.com/playlist?list=PLY8mfoBd3obX-keEnN3aBxXppM-P88zPW
+- Saving & loading fundamentals - https://theduriel.github.io/Godot/Saving-and-Loading
 
 Free Godot games, apps, demos, templates, add-ons, etc. - https://github.com/godotengine/awesome-godot
