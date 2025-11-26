@@ -56,3 +56,9 @@ Godot gamedev tutorials by others:
 - Saving & loading fundamentals - https://theduriel.github.io/Godot/Saving-and-Loading
 
 Free Godot games, apps, demos, templates, add-ons, etc. - https://github.com/godotengine/awesome-godot
+
+Gamedev utilities:
+- JSON viewer - https://jsonviewer.arianv.com/
+- JSON graph viewer - https://jsoncrack.com/
+- JSON editor - https://jsoneditor.io/
+- Gridless DB - Drag-and-drop database editor with export to JSON / CSV / Godot TRES - https://radmatt.itch.io/gridless (~$20)
