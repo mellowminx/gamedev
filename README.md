@@ -3,14 +3,15 @@
 Free tools:
 - Godot game engine - https://godotengine.org/
 - Audio editor - https://www.audacityteam.org/
+- Sound effect creator (web) - https://www.bfxr.net/
 - Animated GIF game screen recorder - https://www.cockos.com/licecap/
 - Video editor - https://kdenlive.org/
 - Lossless video cutter - https://github.com/mifi/lossless-cut
 - Text-based notes app (Mac) - https://fsnot.es/
-- Diagram / flowchart / mindmap tool (Web) - https://draw.io/
+- Diagram / flowchart / mindmap tool (web) - https://draw.io/
 - Screen recorder with mic and system audio (Mac) - https://github.com/lihaoyun6/QuickRecorder
-- Graphic editor (Web) - https://graphite.rs/
-- Graphic editor (Web) - https://www.photopea.com/
+- Graphic editor (web) - https://graphite.rs/
+- Graphic editor (web) - https://www.photopea.com/
 - Graphic editor - https://krita.org/
 - Graphic editor - https://pixieditor.net/
 - Graphic editor (pixel art) - https://github.com/Orama-Interactive/Pixelorama
