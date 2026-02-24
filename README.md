@@ -24,6 +24,7 @@ Free tools:
 Free assets and scripts:
 - Sound effects - https://freesound.org/
 - Sound effects - https://www.zapsplat.com/
+- Sound effects - https://signaturesounds.org/ (scroll down for free packs)
 - Art - https://kenney.nl/
 - Art - https://opengameart.org/
 - Icons - https://game-icons.net/
