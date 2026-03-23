@@ -58,6 +58,7 @@ Godot gamedev tutorials by others:
   - https://www.youtube.com/@minapecheux
   - https://www.youtube.com/playlist?list=PLY8mfoBd3obX-keEnN3aBxXppM-P88zPW
 - Saving & loading fundamentals - https://theduriel.github.io/Godot/Saving-and-Loading
+- Components vs. inheritance - https://www.youtube.com/watch?v=e3H_nw4w5U8
 
 Free Godot games, apps, demos, templates, add-ons, etc. - https://github.com/godotengine/awesome-godot
 
