@@ -17,6 +17,8 @@ Free tools:
 - Graphic editor (pixel art) - https://github.com/Orama-Interactive/Pixelorama
 - Graphic editor (pixel art) - https://www.pixilart.com/
 - Graphic editor (pixel art) - https://www.piskelapp.com/
+- 3D model editor (web) - https://www.blockbench.net/
+- 3D model editor (web) - https://www.figuro.io/
 - Color palettes (made for pixel art but can be for any art) - https://lospec.com/
 - Drawing / mindmap (iPad) - excellent free version, with optional paid upgrade - https://concepts.app/en/
 - Text editor - https://www.sublimetext.com/
