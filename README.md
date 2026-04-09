@@ -1,6 +1,6 @@
 # Gamedev Resources
 
-Tools I personally use are marked with 🌸
+Those I personally use are marked with 🌸
 
 Free tools:
 - Godot game engine - https://godotengine.org/ 🌸
@@ -19,27 +19,27 @@ Free tools:
 - Graphic editor (pixel art) - https://github.com/Orama-Interactive/Pixelorama
 - Graphic editor (pixel art) - https://www.pixilart.com/
 - Graphic editor (pixel art) - https://www.piskelapp.com/
-- 3D editor - https://www.blender.org/
+- 3D editor - https://www.blender.org/ 🌸
 - 3D model editor (web) - https://www.blockbench.net/
 - 3D model editor (web) - https://www.figuro.io/
 - Color palettes (made for pixel art but can be for any art) - https://lospec.com/ 🌸
-- Drawing / mindmap (iPad) - excellent free version, with optional paid upgrade - https://concepts.app/en/
+- Drawing / mindmap (iPad) - excellent free version, with optional paid upgrade - https://concepts.app/en/ 🌸
 - Text editor - https://www.sublimetext.com/ 🌸
 
 Free assets and scripts:
-- Sound effects - https://freesound.org/
+- Sound effects - https://freesound.org/ 🌸
 - Sound effects - https://www.zapsplat.com/
 - Sound effects - https://signaturesounds.org/ (scroll down for free packs)
-- Art - https://kenney.nl/
+- Art - https://kenney.nl/ 🌸
 - Art - https://opengameart.org/
 - Icons - https://game-icons.net/
-- Shaders - https://godotshaders.com/
+- Shaders - https://godotshaders.com/ 🌸
 - Music - https://freepd.com/
 - Music - https://freemusicarchive.org/music/holiznacc0/
 - Godot theme creator - https://github.com/Inspiaaa/ThemeGen
 - Godot theme template - https://github.com/jonathanlake/godot-theme-template
 
-Free platform for indie games - https://itch.io/
+Free platform for indie games - https://itch.io/ 🌸
 
 My Godot gamedev tutorials - https://www.youtube.com/playlist?list=PLDzLmE2ooAiFznAppaO8SdZeLQJjkITHc
 - Make a desktop pet fish game, step-by-step (Godot 4.5) https://www.youtube.com/playlist?list=PLDzLmE2ooAiEdoMUwlV383ZVmfigTP0DZ
